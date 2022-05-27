@@ -1,0 +1,32 @@
+div {
+    background-color: orangered;
+    width: 0px;
+    height: 0px;
+    /* padding: 20px; */
+    border-top: 50px solid aquamarine;
+    border-right: 50px solid  azure;
+    border-bottom: 50px solid yellow;
+    border-left: 50px  solid brown;
+    border-radius: 50px;
+    
+    /* margin-top: 20px;
+    margin-right: 50px;
+    margin-bottom: 15px;
+    margin-left: 80px */
+    /* margin: 20px 30px; */
+    /* border-top-left-radius: 50px ;
+    border-top-right-radius: 50px;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px; */
+    /* border-radius: 30px 45px 70px 10px; */
+/* }
+.triangle{
+        border-top: 60px solid pink;
+        border-right: 60px solid blue;
+        border-bottom: 60px solid red ;
+        border-left: 60px solid grey;
+} */
+
+/* border-color-- color of the text inside content area
+p
+top
