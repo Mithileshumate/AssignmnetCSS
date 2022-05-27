@@ -1,0 +1,45 @@
+.div2:hover{
+       background-color: aqua;
+       color: red;
+}
+/* 
+pseudo-class: 
+hover- 
+focus- input
+enabled-button
+disabled-button
+empty- empty paragraph empty div
+valid- input email
+invalid- input email
+required- input text
+checked- input check
+*/
+button:disabled{
+    background-color: blueviolet;
+}
+input:focus{
+    outline: none;
+}
+p:last-child{
+    color: aqua;
+}
+p:last-of-type{
+      color: bisque;
+}
+.item{
+    border: 1px solid;
+    display: inline-block;
+}
+.item::after{
+ content: '';
+ display: inline-block;
+ width: 10px;
+ 
+}
+.item::before{
+  content: '';
+  display: inline-block;
+  width: 10px;
+  
+  
+}
